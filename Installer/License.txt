@@ -1,0 +1,6 @@
+Project Name           :   Panda Pustaka
+Project Version        :   1.0
+Project Author         :   Raka Suryaardi Widjaja
+Project Home Page  :   www.Gurisa.Com
+Project License        :   All Right Reserved Gurisa © 2015
+

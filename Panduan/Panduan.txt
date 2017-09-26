@@ -1,0 +1,14 @@
+Panduan Panda Pustaka
+
+Untuk Dapat Menggunakan Panda Pustaka Dengan Benar Ada Beberapa Informasi Yang Perlu Di Ketahui Lebih Jauh.
+
+1. Gunakan Bahasa Yang Sopan Saat Menggunakan Fitur Pesan.
+2. Jangan Biarkan Orang Yang Tidak Di Kenal Mengakses Aplikasi Ini.
+3. Jangan Biarkan Orang Lain Mengetahui ID Dan Password Login Anda.
+
+Untuk Keterangan Mengenai Tata Cara Penggunaan Aplikasi Panda Pustaka Silahkan Tekan Tombol Panduan Manual.
+
+Apabila Tidak Muncul Panduan Manual Tersebut Install Terlebih Dahulu Aplikasi Pembaca File .PDF Dan Atur Aplikasi Tersebut Menjadi Aplikasi Default Untuk Membuka Dan Membaca File .PDF.
+
+Program Author
+Raka Suryaardi Widjaja

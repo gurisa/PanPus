@@ -1,0 +1,18 @@
+[DRIVER]
+MySQL ODBC 5.2w Driver
+
+[SERVER]
+192.168.100.1
+
+[UID]
+panda
+
+[PASSWORD]
+pustaka
+
+[DATABASE]
+db_perpus
+
+[PORT]
+3306
+

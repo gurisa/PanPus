@@ -1,0 +1,6 @@
+Panda Pustaka
+
+Dibangun dan dirancang menggunakan aplikasi Visual Basic 6.0 dan database MySQL menggunakan Connector ODBC (Open Data Base Conectivity). 
+
+Program Author
+Raka Suryaardi Widjaja
